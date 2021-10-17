@@ -7,9 +7,22 @@ h1 {
   margin-bottom: 7px !important;
 }
 
+h4 {
+  font-size: 2.25em !important;
+  font-family: 'Bebas Neue', cursive;
+}
+
 h1 a {
   color: #ffffff !important;
   text-decoration: none !important;
+}
+
+h3 a:focus {
+  color: gray;
+}
+
+h3 a:active {
+  color: gray;
 }
 
 h3 {
@@ -43,4 +56,8 @@ p {
 
 .white {
   color: #ffffff;
+}
+
+ul {
+  list-style-type: disc;
 }

@@ -26,6 +26,10 @@
   display: inline-flex;
 }
 
-.card {
+.mod-card {
   border-radius: 0 !important;
+}
+
+.vip-card {
+  border-radius: 5px !important;
 }
