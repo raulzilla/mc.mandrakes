@@ -1,0 +1,46 @@
+h1 {
+  font-size: 3em !important;
+  font-family: 'Bebas Neue', cursive;
+  padding-right: 30px;
+  color: #ffffff;
+  margin: 0 !important;
+  margin-bottom: 7px !important;
+}
+
+h1 a {
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+
+h3 {
+  font-size: 2.5em;
+  font-family: 'Bebas Neue', cursive;
+  padding-right: 30px;
+  color: #ffffff;
+}
+
+p {
+  font-size: 2em;
+  font-family: 'Teko', sans-serif;
+}
+
+.sub-title {
+  display: inline-flex;
+}
+
+.vantagem {
+  margin-bottom: 10px;
+}
+
+.col-sm-12 {
+  padding-right: 0 !important;
+}
+
+.mod-text {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.white {
+  color: #ffffff;
+}
