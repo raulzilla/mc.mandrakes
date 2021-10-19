@@ -1,0 +1,22 @@
+{
+  "name": "mc.mandrakes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulzilla/raulzilla.github.io.git"
+  },
+  "author": "raulzilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raulzilla/raulzilla.github.io/issues"
+  },
+  "homepage": "https://github.com/raulzilla/raulzilla.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
