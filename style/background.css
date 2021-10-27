@@ -20,3 +20,7 @@
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
+
+.card-background {
+  background: linear-gradient(90deg, rgba(69, 40, 219, .8) 0%, rgba(149, 48, 250, .8) 100%);
+}
