@@ -22,5 +22,6 @@
 }
 
 .card-background {
+  padding: 10px;
   background: linear-gradient(90deg, rgba(69, 40, 219, .8) 0%, rgba(149, 48, 250, .8) 100%);
 }
